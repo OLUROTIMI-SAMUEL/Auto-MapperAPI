@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutoMaper_API.props" />
+</Project>
